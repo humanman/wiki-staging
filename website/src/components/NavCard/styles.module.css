@@ -1,0 +1,37 @@
+.card {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  width: 30%;
+  padding: 0 3%;
+  background-color: #fff;
+  box-shadow: none;
+  transition: all 0.2s ease-in-out;
+  margin: 2%;
+  text-align: center;
+  position: relative;
+}
+
+.card a {
+  text-decoration: none;
+  color: #111;
+}
+
+svg.card__icon {
+  width: 22%;
+  color: #6B6EF9;
+}
+
+.level {
+  width: 17%;
+  display: flex;
+  flex-wrap: nowrap !important;
+  margin: 7% -5% 0 auto;
+}
+
+.level > div {
+  height: 2px;
+  width: 24%;
+  margin: 0 4%;
+  background-color: green;
+}

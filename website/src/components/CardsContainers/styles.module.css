@@ -1,0 +1,8 @@
+.cards__container {
+  display: flex;
+  flex-direction: row;
+}
+
+.card__div {
+
+}

@@ -1,130 +1,145 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
-
+  title: "NEAR Wiki",
+  tagline: "NEAR Wiki",
+  url: "https://wiki.near.org",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "near", // Usually your GitHub org/user name.
+  projectName: "wiki", // Usually your repo name.
+  scripts: [
+    "/js/hotjar.js",
+    "https://use.fontawesome.com/releases/v5.15.4/js/all.js",
+  ],
+  stylesheets: [
+    "https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&display=swap",
+    "https://cdn.statically.io/gh/nearprotocol/near-global-footer/main/footer.css",
+  ],
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          routeBasePath: "/",
+          path: "../wiki",
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: "https://github.com/near/wiki/edit/master/website",
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+        },
+        // gtag: {
+        //   trackingID: "G-Z976HN06X8",
+        //   anonymizeIP: true,
+        // },
+
       }),
     ],
   ],
-
+  plugins: [
+    'docusaurus-plugin-matomo',
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: true,
+      },
       navbar: {
-        title: 'My Site',
+        title: "Wiki",
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: "NEAR Logo",
+          src: "img/near_logo.svg",
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            href: "/",
+            position: "left",
+            label: "Getting Started",
+          },
+          {
+            href: "/ecosystem/dapps",
+            position: "left",
+            label: "Ecosystem",
+          },
+          /*{
+            href: '/technology',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Technology',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            href: '/validators',
+            position: 'left',
+            label: 'Validators',
+          },
+          {
+            href: '/community',
+            position: 'left',
+            label: 'Community',
+          },*/
+          {
+            href: "/governance",
+            position: "left",
+            label: "Governance",
+          } /*
+          {
+            href: '/resources',
+            position: 'left',
+            label: 'Resources',
+          },*/,
+          { 
+            href: "/support/growth",
+            position: "left",
+            label: "Support",
+          },
+          {
+            href: "/contribute/contribute-overview",
+            position: "left",
+            label: "Contribute",
+          },
+          {
+            href: "https://github.com/near/wiki",
+            position: "right",
+            label: "GitHub",
           },
         ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: require("prism-react-renderer/themes/github"),
+      },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "J7VARGY7RM",
+        // Public API key: it is safe to commit it
+        apiKey: "4723f2a6e5ef0c7f5c6d17feb6362b19",
+        indexName: "wiki-near",
+        // Optional: see doc section below
+        contextualSearch: true,
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: "near\\.org|nomicon\\.io",
+        // Optional: Algolia search parameters
+        searchParameters: {},
+        //... other Algolia params
+      },
+      matomo: {
+        matomoUrl: 'https://near-wiki.matomo.cloud',
+        siteId: '1',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
       },
     }),
 };
