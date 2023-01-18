@@ -27,18 +27,18 @@ If the gas prices are too high, you can wait until they drop to a manageable pri
 
 Start by connecting MetaMask, and your NEAR wallet so that you can make transfers between the NEAR network and other networks. In the example below we'll transfer NEAR to Aurora.
 
-![Connect your wallets](/images/rainbowbridge1.png)
+![Connect your wallets](@site/static/img/rainbowbridge1.png)
 
 Next you need to choose the token you're transferring, and the amount you'll transfer. In the example below we're transferring 1 NEAR to Aurora.
 
-![Enter your transfer details](/images/rainbowbridge2.png)
+![Enter your transfer details](@site/static/img/rainbowbridge2.png)
 
 Now, you need to confirm your transaction.
 
-![Confirm transfer](/images/rainbowbridge3.png)
+![Confirm transfer](@site/static/img/rainbowbridge3.png)
 
 Finally, if the transfer details are accurate and you're satisfied with the fee, click the "Approve" button.
 
-![Approve transfer](/images/rainbowbridge4.png)
+![Approve transfer](@site/static/img/rainbowbridge4.png)
 
 **Note:** Depending on the direction of your bridge transactions, you may be requested to confirm additional transactions in MetaMask and/or NEAR Wallet.

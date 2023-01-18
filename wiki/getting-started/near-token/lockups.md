@@ -44,7 +44,7 @@ The lockups are implemented as a separate smart contract from your main account.
 
 Vesting could be terminated by the foundation, an account configured at the moment of initializing the contract. It's important to understand how the termination works combining with the lockup schedule.
 
-![](/assets/lockup\_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
+![](@site/static/img/lockup_5-ccc671d917b28deda1ddc51c2ef2f1d1.png)
 
 At the moment of termination, we stop the vesting process, so the vested amount is going to remain constant after that; the lockup process keeps going and will unlock the tokens on its schedule. We continue to unlock the tokens by getting the minimum between unlocked and vested amounts.
 

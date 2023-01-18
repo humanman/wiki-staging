@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ---
 
-Staking allows you to earn NEAR rewards in return for delegating your tokens with a validator. This is an essential process in Proof-of-Stake (PoS) blockchains which is required to ensure security and decentralisation.
+Staking allows you to earn NEAR rewards in return for delegating your tokens with a validator. This is an essential process in Proof-of-Stake (PoS) blockchains which is required to ensure security and decentralization.
 Staking is an important aspect of blockchains with a Proof-of-Stake mechanism, like NEAR.
 
 Proof-of-Stake (PoS) is a consensus mechanism to determine which users get to create new blocks on the NEAR blockchain.
@@ -16,7 +16,7 @@ In the NEAR network, a decentralized pool of validators keeps the network secure
 
 ## Staking on NEAR
 
-Validators are pieces of hardware, ran by individuals, groups, or organisations, which serve to secure, maintain, and run the NEAR blockchain.
+Validators are pieces of hardware, ran by individuals, groups, or organizations, which serve to secure, maintain, and run the NEAR blockchain.
 
 Delegators are those who commit their NEAR to a validator to assist in securing the network and to earn rewards in the process.
 
@@ -38,12 +38,12 @@ Choose the `Staking` tab in the navigation menu.
 This screen shows you how much NEAR you currently have staked, how much you have earned in NEAR rewards from staking, and where you're NEAR is staked.
 Choose the `Stake My Tokens` button to start staking your NEAR.
 
-![Staking tab](/images/staking1.png)
+![Staking tab](@site/static/img/staking1.png)
 
 You'll be able to choose a validator pool to stake your tokens with.
 Different pools charge different fees, and the fee is a percentage of your staking rewards.
 
-![Choose pool](/images/staking2.png)
+![Choose pool](@site/static/img/staking2.png)
 
 After selecting a pool, you'll see:
 - The validator fee
@@ -55,19 +55,19 @@ If this is the first time you're staking with a particular pool, you won't have 
 
 When you're satisfied with your choice, click the `Stake with Validator` button.
 
-![Pool summary](/images/staking3.png)
+![Pool summary](@site/static/img/staking3.png)
 
 Next, you can choose how much you'd like to stake with the validator pool.
 
-![Staking page](/images/staking5.png)
+![Staking page](@site/static/img/staking5.png)
 
 Finally, you'll have a success screen confirming that you've staked your NEAR with a validator pool.
 
-![Staking success](/images/staking7.png)
+![Staking success](@site/static/img/staking7.png)
 
 The staking tab will now be updated to show how much you have staked in total, and which validator pools you've staked your NEAR with.
 When you earn rewards, you'll also be able to see how much you have earned in NEAR here.
-![Staking overview update](/images/staking8.png)
+![Staking overview update](@site/static/img/staking8.png)
 
 
 ## Unstaking Your NEAR
@@ -75,31 +75,31 @@ When you earn rewards, you'll also be able to see how much you have earned in NE
 You can also unstake your NEAR from the `Staking` tab.
 When you'd like to unstake your NEAR, start by clicking the `Unstake` button.
 
-![Staking Overview](/images/Unstaking1.png)
+![Staking Overview](@site/static/img/Unstaking1.png)
 
 The next screen will show you which validator pools you're currently staking your NEAR with.
 Choose the validator you want to unstake your NEAR from.
 
-![Unstake from validator page](/images/Unstaking2.png)
+![Unstake from validator page](@site/static/img/Unstaking2.png)
 
 Next, choose the amount of NEAR you'd like to unstake from the validator and click `Unstake Tokens`.
 
-![Unstake tokens page](/images/Unstaking3.png)
+![Unstake tokens page](@site/static/img/Unstaking3.png)
 
 Finally, confirm the amount of NEAR you're unstaking.
 This screen also tells you how long you'll need to wait for the NEAR you've unstaked to become available in your wallet.
 Unstaked tokens will be made available pending a release period of ~52-65hrs (4 epochs).
 
-![Unstake confirmation page](/images/Unstaking4.png)
+![Unstake confirmation page](@site/static/img/Unstaking4.png)
 
 You'll now see a success page to let you know your NEAR is being unstaked.
 
-![Unstake success page](/images/Unstaking5.png)
+![Unstake success page](@site/static/img/Unstaking5.png)
 
 
 You can keep track of how much NEAR you have available, and how much is still being unstaked in the `Staking` tab.
 
-![Staking tab with pending transaction](/images/Unstaking6.png)
+![Staking tab with pending transaction](@site/static/img/Unstaking6.png)
 
 Next, let's take a look at how to find validators to stake with.
 ## Finding Validators

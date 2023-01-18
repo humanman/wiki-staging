@@ -21,19 +21,19 @@ First, choose your human-readable account ID. Each account created in the NEAR W
 If you want a deeper dive on this subject, check out the [Account Model](https://docs.near.org/concepts/basics/accounts/model) section of the NEAR docs.
 :::
 
-![Wallet](/images/wallet1.png)
+![Wallet](@site/static/img/wallet1.png)
 
 ### Choosing the Recovery Method
 
 Next, you will choose your account recovery method. The NEAR Wallet is entirely non-custodial, which means account access is your responsibility. We currently offer three methods of account access. After creating your account, you can choose to enable a combination of methods.
 
-![Wallet](/images/wallet2.png)
+![Wallet](@site/static/img/wallet2.png)
 
 #### Ledger Hardware Wallet
 
 If you have a hardware wallet like Ledger Nano S or X, we highly recommend using it. This ensures your private keys never leave your Ledger, which provides the highest level of security when using the NEAR Wallet. Check out [Ledger](https://www.ledger.com/) for more information.
 
-![Wallet](/images/wallet3.png)
+![Wallet](@site/static/img/wallet3.png)
 
 #### Recovery (Seed) Phrase
 
@@ -44,7 +44,7 @@ The seed phrase is only as secure as your storage of it! If you want to retain a
 
 :::
 
-![Wallet](/images/wallet4.png)
+![Wallet](@site/static/img/wallet4.png)
 
 #### Email
 
@@ -69,19 +69,19 @@ NEAR Wallet provides a simplified account creation process for first-time users 
 
 If you don’t want to disclose your email address, or create a secondary account, transfer NEAR (minimum 0.1 NEAR) to the 64 character account ID (your temporary / implicit ID) shown when selecting 'Manual Deposit', then return to this page.
 
-![Wallet](/images/wallet5.png)
+![Wallet](@site/static/img/wallet5.png)
 
 Until the funds are received, you will see “Awaiting deposit” in the account status.
 
 Once the funds are ready, click the button “Claim my Account”, and your account is ready to use! You will be redirected to your “Wallet” page and can view your accounts details.
 
-![Wallet](/images/wallet6.png)
+![Wallet](@site/static/img/wallet6.png)
 
 ## Managing Your Account
 
 On the “Account” page, you will see a breakdown of your account balance, available recovery options (not including your seed phrase from the first step), and the option to add a Ledger hardware device or setup Two Factor Authentication.
 
-![Wallet](/images/wallet7.png)
+![Wallet](@site/static/img/wallet7.png)
 
 ### Two Factor Authentication
 

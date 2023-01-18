@@ -82,7 +82,7 @@ To add images to a page in the wiki, start by adding an image to the folder unde
 Then you can include the image in a page by typing the following:
 
 ```md
-![Alt text/description of the image](@site/static/images/image-name.png)
+![Alt text/description of the image](@site/static/img/image-name.png)
 ```
 The above text is alt text inside a pair of `[]` that should explain what is in the image, followed by a pair of `()` that have a link to the image in the images folder.
 

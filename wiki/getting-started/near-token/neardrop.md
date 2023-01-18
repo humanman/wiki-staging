@@ -16,49 +16,49 @@ sidebar_position: 3
 
 #### **2. Connect Wallet**
 
-![NEAR Drop](/images/neardrop1.png)
+![NEAR Drop](@site/static/img/neardrop1.png)
 
 #### **3. Connect to**[ **wallet.near.org**](http://wallet.near.org)
 
-![NEAR Drop](/images/neardrop2.png)
+![NEAR Drop](@site/static/img/neardrop2.png)
 
 #### **4. Backup your NEAR Linkdrop specific seed phrase**
 
-![NEAR Drop](/images/neardrop3.png)
+![NEAR Drop](@site/static/img/neardrop3.png)
 
 **5. Deposit 5 NEAR to create your own Linkdrop Smart Contract**
 
-![NEAR Drop](/images/neardrop4.png)
+![NEAR Drop](@site/static/img/neardrop4.png)
 
 **6. Create new Campaign**
 
-![NEAR Drop](/images/neardrop5.png)
+![NEAR Drop](@site/static/img/neardrop5.png)
 
 **7. Specify Campaign Details**
 
-![NEAR Drop](/images/neardrop6.png)
+![NEAR Drop](@site/static/img/neardrop6.png)
 
 #### **8. Confirm Campaign details**
 
-![NEAR Drop](/images/neardrop7.png)
+![NEAR Drop](@site/static/img/neardrop7.png)
 
 #### **9. Confirm in wallet** ****
 
-![NEAR Drop](/images/neardrop8.png)
+![NEAR Drop](@site/static/img/neardrop8.png)
 
 #### **10. Success, your drops are ready**
 
-![NEAR Drop](/images/neardrop9.png)
+![NEAR Drop](@site/static/img/neardrop9.png)
 
 #### **11. Generate Custom QR codes out of the Linkdrop URLs**
 
 If you wish to generate QR codes you need to submit each of the URLs into a QR code generator tool like [https://www.qrbatch.com/](https://www.qrbatch.com). You can add colours, your own logo and so forth. Be aware if you wish the QR code to look great you need to also shorten each link using a centralized service like [https://bitly.com/](https://bitly.com).
 
-![NEAR Drop](/images/neardrop10.png)
+![NEAR Drop](@site/static/img/neardrop10.png)
 
 **12. Receiving a linkdrop**
 
-![NEAR Drop](/images/neardrop11.png)
+![NEAR Drop](@site/static/img/neardrop11.png)
 
 Claiming a linkdrop is easy, just click the URL or scan a linkdrop QR code
 

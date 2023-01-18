@@ -16,16 +16,16 @@ With NEAR being among the most interoperable and developer friendly Layer 1’s,
 
 Discover open roles available within the NEAR Ecosystem, and you can also post open roles within your team as well.
 
-### [![NEAR Week](/images/logo_nearweek.svg){width=10%}](https://nearweek.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+### [![NEAR Week](@site/static/img/logo_nearweek.svg){width=10%}](https://nearweek.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
  Community-driven newsletter. It covers anything and everything within the NEAR Ecosystem. If you're looking for an extra dose of NEAR-focused news, look no further.
 
-### [![Black Freelancer](/images/logo_blackfreelancer.svg)](https://www.blackfreelancer.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+### [![Black Freelancer](@site/static/img/logo_blackfreelancer.svg)](https://www.blackfreelancer.com/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
 
 BlackFreelancer is a hub for black creatives across the globe to showcase their work and get hired.
 
-### [![BEExperience](/images/logo_beexperience.svg)](https://beexperience.io/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+### [![BEExperience](@site/static/img/logo_beexperience.svg)](https://beexperience.io/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
 
 
@@ -42,7 +42,7 @@ The HUB of education and recruitment within web3. We provide services to hiring 
 
 
 
-### [![freeCodeCamp](/images/logo_freecodecamp.png)](https://www.freecodecamp.org/news/near-curriculum/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+### [![freeCodeCamp](@site/static/img/logo_freecodecamp.png)](https://www.freecodecamp.org/news/near-curriculum/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 
 a freeCodeCamp initiative rolling out courses on NEAR Protocol.
 
@@ -57,7 +57,7 @@ LNC also has some pretty great invite-only offers to help NEAR Ecosystem project
 * While interacting on LNC, you will receive [nLearns](https://learnnear.club/what-are-nlearns/), LNC internal points.
 * Both Creators and Learners get rewards in nLEARNs
 
-### [![Near Academy](https://near.academy/images/header/logo.svg)](https://near.academy/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
+### [![Near Academy](https://near.academy@site/static/img/header/logo.svg)](https://near.academy/)<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_node_modules-@docusaurus-theme-classic-lib-next-theme-IconExternalLink-styles-module"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg>
 This resource is aimed at developers with experience in Web 2, who are new to Web 3 [NEAR Academy](htpps://near.academy).
 It's an interactive course that teaches how to integrate blockchain technology with an application.
 When you complete it, you receive a certificate of completion.

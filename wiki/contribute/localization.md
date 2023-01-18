@@ -38,7 +38,7 @@ Before you start working on the translation of an article, you need to get pre-a
 
 You can check the current translation plans available for each language on the [Tasks section](https://crowdin.com/project/near-docs/tasks):
 
-![image](@site/static/assets/crowdin-tasks.png)
+![image](@site/static/img/crowdin-tasks.png)
 
 If there's no active plan for your language, you can submit a proposal by opening a thread on the [Discussions section](https://crowdin.com/project/near-docs/discussions).
 Once your plan is pre-approved by the community, you can just go to the [Crowdin project](https://crwd.in/near-docs) and work on the translation of the specific markdown file.
@@ -72,7 +72,7 @@ For each language, the current plan is to translate all the documents with the f
 1. `roles`
 2. `faq`
 
-![image](@site/static/assets/crowdin-list.png)
+![image](@site/static/img/crowdin-list.png)
 
 ### Proof reading and go-to Production
 

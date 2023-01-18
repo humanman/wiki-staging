@@ -12,7 +12,7 @@ Visit: [https://www.openwebcollective.com](https://www.openwebcollective.com/)
 
 ## MetaWeb
 
-![metaweb](/images/logo_metaweb.png)
+![metaweb](@site/static/img/logo_metaweb.png)
 
 Metaweb is a global venture fund focused on early stage crypto projects. In particular, Metaweb specializes in projects and business building within the NEAR ecosystem (NEAR-native, Aurora, Octopus, and more in the future).
 
