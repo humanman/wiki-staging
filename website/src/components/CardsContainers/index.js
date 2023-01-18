@@ -12,9 +12,11 @@ const cardData = {
       text: (
         <>
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          (where should this link?)
         </>
       ),
-      link:     level: 'easy'
+      link: '/',
+      level: 'easy'
     },
     {
       title: 'Developer',
@@ -22,9 +24,11 @@ const cardData = {
       text: (
         <>
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          (where should this link?)
         </>
       ),
-      link:     level: 'easy'
+      link: '/',
+      level: 'easy'
     },
     {
       title: 'Founder',
@@ -32,9 +36,11 @@ const cardData = {
       text: (
         <>
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          (where should this link?)
         </>
       ),
-      link:     level: 'easy'
+      link: '/',
+      level: 'easy'
     },
   ],
   browseByDomain: [
@@ -203,7 +209,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '://docs.near.org',
+      link: 'https://docs.near.org',
       level: 'easy'
     },
   ]
