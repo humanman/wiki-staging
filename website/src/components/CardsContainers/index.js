@@ -14,8 +14,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '',
-      level: 'easy'
+      link:     level: 'easy'
     },
     {
       title: 'Developer',
@@ -25,8 +24,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '',
-      level: 'easy'
+      link:     level: 'easy'
     },
     {
       title: 'Founder',
@@ -36,8 +34,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '',
-      level: 'easy'
+      link:     level: 'easy'
     },
   ],
   browseByDomain: [
@@ -49,7 +46,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/governance/near-forum/near-forum-guidelines',
+      link: '/governance/near-forum/near-forum-guidelines',
       level: 'easy'
     },
     {
@@ -60,7 +57,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/hr-education-resources',
+      link: '/support/hr-education-resources',
       level: 'easy'
     },
     {
@@ -71,7 +68,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/ecosystem/dapps',
+      link: '/ecosystem/dapps',
       level: 'easy'
     },
     {
@@ -82,7 +79,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/getting-started/essential-tools',
+      link: '/getting-started/essential-tools',
       level: 'easy'
     },
     {
@@ -93,7 +90,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/tools-infrastructure',
+      link: '/support/tools-infrastructure',
       level: 'easy'
     },
     {
@@ -104,7 +101,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/funding',
+      link: '/support/funding',
       level: 'easy'
     },
   ],
@@ -117,7 +114,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/getting-started/creating-a-near-wallet',
+      link: '/getting-started/creating-a-near-wallet',
       level: 'easy'
     },
     {
@@ -128,7 +125,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/governance/near-forum/near-forum-guidelines',
+      link: '/governance/near-forum/near-forum-guidelines',
       level: 'easy'
 
     },
@@ -140,7 +137,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/governance/dao-guide/astrodao',
+      link: '/governance/dao-guide/astrodao',
       level: 'easy'
     },
     {
@@ -151,7 +148,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/tools-infrastructure#wallets',
+      link: '/support/tools-infrastructure#wallets',
       level: 'easy'
     },
     {
@@ -162,7 +159,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/tools-infrastructure#javascript-stack',
+      link: '/support/tools-infrastructure#javascript-stack',
       level: 'easy'
     },
     {
@@ -173,7 +170,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/tools-infrastructure#rust-stack',
+      link: '/support/tools-infrastructure#rust-stack',
       level: 'easy'
     },
     {
@@ -184,7 +181,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/getting-started/near-explorer',
+      link: '/getting-started/near-explorer',
       level: 'easy'
     },
     {
@@ -195,7 +192,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '@site/support/tools-infrastructure#explorers--indexers',
+      link: '/support/tools-infrastructure#explorers--indexers',
       level: 'easy'
     },
     {
@@ -206,7 +203,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: 'https://docs.near.org',
+      link: '://docs.near.org',
       level: 'easy'
     },
   ]
