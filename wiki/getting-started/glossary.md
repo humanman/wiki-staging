@@ -2,7 +2,7 @@
 id: glossary
 title: Glossary
 description: Helpful definitions for the wiki.
-sidebar_position: 11
+sidebar_position: 8
 ---
 
 ---

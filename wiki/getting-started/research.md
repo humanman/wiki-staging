@@ -1,6 +1,6 @@
 ---
 description: Links to Research Papers and Posts
-sidebar_position: 8
+sidebar_position: 7
 title: Research
 ---
 

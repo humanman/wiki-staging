@@ -1,7 +1,7 @@
 ---
 description: A step-by-step guide to creating your NEAR Wallet
 title: Creating a NEAR Wallet
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Creating a NEAR Wallet

@@ -1,7 +1,7 @@
 ---
 title: Essential Tools
 description: A brief overview of some essential tools to get started with NEAR
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 ----

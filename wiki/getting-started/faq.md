@@ -1,7 +1,7 @@
 ---
 description: Frequently asked questions about NEAR
 title: FAQs
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 ---
