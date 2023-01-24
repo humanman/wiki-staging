@@ -136,7 +136,7 @@ function DocSearch({ contextualSearch, externalUrlRegex, ...props }) {
       </Head>
 
       <div className={styles.searchBox}>
-        <h2>What Are You Looking For?</h2>>
+        <h2>Search by keywords</h2>
         <DocSearchButton onTouchStart={importDocSearchModalIfNeeded} onFocus={importDocSearchModalIfNeeded} onMouseOver={importDocSearchModalIfNeeded} onClick={onOpen} ref={searchButtonRef} translations={{
             buttonText: translatedSearchLabel,
             buttonAriaLabel: translatedSearchLabel,
