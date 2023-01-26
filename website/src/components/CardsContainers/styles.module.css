@@ -6,3 +6,7 @@
 .card__div {
 
 }
+
+.card.developer:hover {}
+
+.card.founder:hover {}

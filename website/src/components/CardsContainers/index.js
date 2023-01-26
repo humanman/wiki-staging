@@ -16,7 +16,9 @@ const cardData = {
         </>
       ),
       link: '/',
-      level: 'easy'
+      level: 'easy',
+      cardType: 'profile',
+      profile: 'user'
     },
     {
       title: 'Developer',
@@ -28,7 +30,9 @@ const cardData = {
         </>
       ),
       link: '/',
-      level: 'easy'
+      level: 'easy',
+      cardType: 'profile',
+      profile: 'developer'
     },
     {
       title: 'Founder',
@@ -40,7 +44,9 @@ const cardData = {
         </>
       ),
       link: '/',
-      level: 'easy'
+      level: 'easy',
+      cardType: 'profile',
+      profile: 'founder'
     },
   ],
   browseByDomain: [

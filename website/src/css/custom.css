@@ -216,8 +216,6 @@ hr {
   width: 30%;
 }
 
-
-
 /* ------------------------------------------- */
 /* NAVBAR */
 /* ------------------------------------------- */
@@ -292,15 +290,65 @@ body .container {
 }
 
  .card-title {
+  position: relative;
+  z-index: 1;
   font-size: 70%;
   font-weight: 600;
   margin-bottom: .5em;
 }
 
- .card-text {
-  font-size: 45%;
+.card.profile:hover .card-title {
+  color: #fff;
+  transition: all 0.5s ease;
 }
 
+ .card-text {
+  position: relative;
+  z-index: 1;
+  font-size: 45%;
+  transition: all 0.5s ease;
+}
+
+.card.profile:hover .card-text {
+  color: #fff;
+}
+
+.card.profile svg {
+  transition: all 0.5s ease;
+  fill: #6B6EF9;
+}
+
+.card.profile:hover svg {
+  transition: all 0.5s ease;
+  fill: #fff;
+}
+
+.user, .developer, .founder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s ease;
+}
+
+.user {
+  background: linear-gradient(45deg, #6B6EF9, #4FD1D9);
+}
+
+.developer {
+  background: linear-gradient(45deg, #AAD055, #4FD1D9);
+}
+
+.founder {
+  background: linear-gradient(45deg, #6B6EF9, #A463B0);
+}
+
+.card:hover .user, .card:hover .developer, .card:hover .founder {
+  opacity: .8;
+}
 
 .browseByDomain__section {
   padding: 10% 10% 5%;

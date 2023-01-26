@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 
 function NavCard(props) {
   return (
-    <Card className={styles.card}>
+    <Card className={[styles.card, props.cardType]}>
       <Link to={props.link}>
         <div className={styles.level}>
           <div></div>
@@ -20,6 +20,7 @@ function NavCard(props) {
           <Card.Text className={styles.card__text}>
           {props.text}
           </Card.Text>
+          <div className={props.profile}></div>
         </Card.Body>
       </Link>
     </Card>
