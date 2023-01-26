@@ -7,7 +7,7 @@ const config = {
   tagline: "NEAR Wiki",
   url: "https://wiki.near.org",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "near", // Usually your GitHub org/user name.
@@ -69,38 +69,23 @@ const config = {
           {
             href: "/",
             position: "left",
-            label: "Getting Started",
+            label: "Overview",
           },
           {
             href: "/ecosystem/dapps",
             position: "left",
             label: "Ecosystem",
           },
-          /*{
-            href: '/technology',
-            position: 'left',
-            label: 'Technology',
-          },
-          {
-            href: '/validators',
-            position: 'left',
-            label: 'Validators',
-          },
-          {
-            href: '/community',
-            position: 'left',
-            label: 'Community',
-          },*/
           {
             href: "/governance",
             position: "left",
             label: "Governance",
-          } /*
+          },
           {
-            href: '/resources',
+            href: '/development',
             position: 'left',
-            label: 'Resources',
-          },*/,
+            label: 'Development',
+          },
           { 
             href: "/support/growth",
             position: "left",

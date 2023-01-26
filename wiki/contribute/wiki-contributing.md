@@ -1,11 +1,11 @@
 ---
+title: Contributing to This Wiki
 description: A guide to contributing to the wiki.
-title: Contributor Guide
-slug: /contributor-guide
 sidebar_position: 2
+slug: /contribute/wiki-contributing
 ---
 
-# Contributing
+---
 
 Wiki content development is community driven, and your contributions are welcome!
 

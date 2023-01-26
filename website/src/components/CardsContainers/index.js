@@ -85,7 +85,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/getting-started/essential-tools',
+      link: '/overview/essential-tools',
       level: 'easy'
     },
     {
@@ -120,7 +120,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/getting-started/creating-a-near-wallet',
+      link: '/overview/creating-a-near-wallet',
       level: 'easy'
     },
     {
@@ -187,7 +187,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/getting-started/near-explorer',
+      link: '/overview/near-explorer',
       level: 'easy'
     },
     {

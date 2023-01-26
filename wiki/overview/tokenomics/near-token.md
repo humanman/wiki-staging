@@ -1,6 +1,7 @@
 ---
 description: Everything you need to know about NEAR Token
 title: NEAR Token
+sidebar_position: 0
 ---
 
 

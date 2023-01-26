@@ -10,7 +10,7 @@ documentation for NEAR related projects.
 
 ## Goals and audience {#goals-and-audience}
 
-This guide codifies and records style decisions so that you can write documentation
+This guide codifies and records style decisions so that you can write wiki articles
 that is consistent with existing documentation, and ensure that what you write is
 as easy as possible to understand. We hope that you'll join us in striving for
 high-quality documentation.

@@ -1,6 +1,6 @@
 ---
+title: Building On NEAR
 description: A quick quide to building projects on NEAR.
-title: Building Overview
 sidebar_position: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: localization
-title: How to translate NEAR Docs
-sidebar_label: Docs Localization
+title: Translating Content on NEAR
+sidebar_label: Translating Content
 sidebar_position: 4
 ---
 

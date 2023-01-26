@@ -1,7 +1,6 @@
 ---
-id: contribute-overview
-title: Contributor Overview
-sidebar_label: Overview
+title: Contributing to NEAR
+sidebar_label: 'Contributing To NEAR'
 sidebar_position: 1
 ---
 

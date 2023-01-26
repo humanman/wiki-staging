@@ -1,5 +1,5 @@
 ---
-title: Essential Tools
+title: Essentials
 description: A brief overview of some essential tools to get started with NEAR
 sidebar_position: 5
 ---
