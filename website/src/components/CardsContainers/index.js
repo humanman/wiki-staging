@@ -69,7 +69,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/support/hr-education-resources',
+      link: '/support/hr-education',
       level: 'easy'
     },
     {
@@ -91,7 +91,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/overview/essential-tools',
+      link: '/overview/essentials',
       level: 'easy'
     },
     {
@@ -102,7 +102,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/support/tools-infrastructure',
+      link: '/development/dev-overview',
       level: 'easy'
     },
     {
@@ -126,7 +126,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/overview/creating-a-near-wallet',
+      link: '/overview/tokenomics/creating-a-near-wallet',
       level: 'easy'
     },
     {
@@ -134,7 +134,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_forum.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          (this link already appears on this page)Crypto ipsum ethereum 
         </>
       ),
       link: '/governance/near-forum/near-forum-guidelines',
@@ -160,7 +160,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/support/tools-infrastructure#wallets',
+      link: '/development/tools-infrastructure#developer-tools',
       level: 'easy'
     },
     {
@@ -171,7 +171,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/support/tools-infrastructure#javascript-stack',
+      link: '/development/tools-infrastructure#javascript-stack',
       level: 'easy'
     },
     {
@@ -182,7 +182,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/support/tools-infrastructure#rust-stack',
+      link: '/development/tools-infrastructure#rust-stack',
       level: 'easy'
     },
     {
@@ -193,7 +193,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/overview/near-explorer',
+      link: '/overview/essential-tools#near-explorer',
       level: 'easy'
     },
     {
@@ -204,7 +204,7 @@ const cardData = {
           Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
         </>
       ),
-      link: '/support/tools-infrastructure#explorers--indexers',
+      link: '/development/tools-infrastructure#explorers--indexers',
       level: 'easy'
     },
     {

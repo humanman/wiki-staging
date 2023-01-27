@@ -12,8 +12,8 @@ There are a multitude of infrastructure tools & services integrated into the NEA
 
 ## Developer Tools
 
-* [Pagoda](https://www.pagoda.co/) - The first-ever Web3 startup platform, and main core protocol contributor of NEAR Protocol.
 * [NEAR CLI](https://docs.near.org/tools/near-cli) - The NEAR Command Line Interface (CLI) is a tool that enables to interact with the NEAR network directly from the shell.
+* [Pagoda](https://www.pagoda.co/) - The first-ever Web3 startup platform, and main core protocol contributor of NEAR Protocol.
 * [RPC API](https://docs.near.org/api/rpc/introduction) - The RPC API allows you to communicate directly with the NEAR network.
 * [Gateway.FM](https://gateway.fm/) - a node infrastructure provider. Their NEAR RPC endpoint is  stable, easy-to-use, load tested and QA’d by the experienced Gateway team, being the most stable node in the market
   * [Onepager](https://drive.google.com/file/d/1EvUJbGEffCW5DqSFbZku_LBMSVhYyV1Q/view?usp=sharing)
