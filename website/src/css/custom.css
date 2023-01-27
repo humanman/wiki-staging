@@ -372,6 +372,7 @@ html {
   font-size: 2vw;
   margin-top: 1vw;
   margin-bottom: .7vw;
+  white-space: nowrap;
 }
 
 .card.profile:hover .card-title {
@@ -649,7 +650,6 @@ html {
   .card-title {
     font-size: 5vw;
     margin-bottom: 3vw;
-    white-space: nowrap;
   }
 
   .card-text {
