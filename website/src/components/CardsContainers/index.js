@@ -11,11 +11,10 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_user.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
-          (where should this link?)
+          Learn how to use NEAR and the NEAR ecosystem
         </>
       ),
-      link: '/',
+      link: '/overview/getting-started',
       level: 'easy',
       cardType: 'profile',
       profile: 'user'
@@ -25,11 +24,10 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_dev.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
-          (where should this link?)
+          Collection of tools and resources for developers building on NEAR
         </>
       ),
-      link: '/',
+      link: '/development/dev-overview',
       level: 'easy',
       cardType: 'profile',
       profile: 'developer'
@@ -39,8 +37,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_founder.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
-          (where should this link?)
+          Connect with funding, talent, and resources to launch your project
         </>
       ),
       link: '/',
@@ -55,7 +52,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_governance.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Explore how NEAR is governed and how you can participate
         </>
       ),
       link: '/governance/near-forum/near-forum-guidelines',
@@ -66,7 +63,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_edu.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Discover learning resources to help you get started on NEAR
         </>
       ),
       link: '/support/hr-education',
@@ -77,7 +74,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_dapps.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Find dApps built on NEAR and learn how to build your own
         </>
       ),
       link: '/ecosystem/dapps',
@@ -88,7 +85,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_etools.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Quickly get started with NEAR Explorer, Wallet, and NEAR CLI
         </>
       ),
       link: '/overview/essentials',
@@ -99,10 +96,10 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_devtools.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Essential tools for developers building on NEAR
         </>
       ),
-      link: '/development/dev-overview',
+      link: '/development/tools-infrastructure',
       level: 'easy'
     },
     {
@@ -110,7 +107,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_funding.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Learn about NEAR Grants and other funding opportunities
         </>
       ),
       link: '/support/funding',
@@ -123,7 +120,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_wallet.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Get started with a NEAR Wallet and learn how to use it
         </>
       ),
       link: '/overview/tokenomics/creating-a-near-wallet',
@@ -134,7 +131,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_forum.svg').default,
       text: (
         <>
-          (this link already appears on this page)Crypto ipsum ethereum 
+          Participate in decision-making and governance on NEAR
         </>
       ),
       link: '/governance/near-forum/near-forum-guidelines',
@@ -146,7 +143,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_astro.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Easily create and manage your own DAO on NEAR
         </>
       ),
       link: '/governance/dao-guide/astrodao',
@@ -157,7 +154,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_cli.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Start building local environments and deploy dApps to NEAR
         </>
       ),
       link: '/development/tools-infrastructure#developer-tools',
@@ -168,7 +165,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_jssdk.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Write smart contracts in JavaScript and deploy them to NEAR
         </>
       ),
       link: '/development/tools-infrastructure#javascript-stack',
@@ -179,7 +176,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_rust.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Write sophisticated smart contracts in Rust and deploy them to NEAR
         </>
       ),
       link: '/development/tools-infrastructure#rust-stack',
@@ -190,7 +187,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_explorer.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          See account balances, transactions, and more on NEAR Explorer
         </>
       ),
       link: '/overview/essential-tools#near-explorer',
@@ -201,7 +198,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_staking.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Earn rewards by staking your NEAR tokens
         </>
       ),
       link: '/development/tools-infrastructure#explorers--indexers',
@@ -212,7 +209,7 @@ const cardData = {
       icon: require('@site/static/img/icons/icon_docs.svg').default,
       text: (
         <>
-          Crypto ipsum ethereum bitcoin litecoin dogecoin, crypto ipsum
+          Take a deep dive into NEAR's technology with tutorials, guides, and more
         </>
       ),
       link: 'https://docs.near.org',
